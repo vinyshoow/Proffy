@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src="https://user-images.githubusercontent.com/60045489/89294234-98007900-d635-11ea-9f32-7cff18e605c8.png" width="800px" />
+    <img alt="Proffy" src="https://user-images.githubusercontent.com/60045489/89305451-0862c680-d645-11ea-9f88-a4c9446e7d72.gif" width="800px" />
 </h1>
 
 <h3 align="center">
