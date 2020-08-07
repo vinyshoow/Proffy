@@ -13,6 +13,11 @@ routes.post('/connections', connectionsController.create);
 routes.get('/connections', connectionsController.index);
 
 
+routes.get('/', (request, response) => {
+  return response.json({message: "Next Level Week #2"})
+});
+
+
 
 
 export default routes;
