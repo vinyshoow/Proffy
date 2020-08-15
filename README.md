@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="Proffy" src="https://user-images.githubusercontent.com/60045489/90322462-bebe8980-df2a-11ea-938f-35dfac847797.png" width="800px" />
+  <img alt="ProffyGif" src="https://user-images.githubusercontent.com/60045489/90322496-591ecd00-df2b-11ea-8b3e-b314778a3d65.gif" width="800px" />
 </h1>
 
 <h2 align="center">
-  <img alt="https://user-images.githubusercontent.com/60045489/90322496-591ecd00-df2b-11ea-8b3e-b314778a3d65.gif" width="800px" />
+  <img alt="Proffy" src="https://user-images.githubusercontent.com/60045489/90322462-bebe8980-df2a-11ea-938f-35dfac847797.png" width="800px" />
 </h2>
 
 <h3 align="center">
